@@ -8603,3 +8603,9 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [15Dec2024 01:10:48.669] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [21, -5], pos: BlockPos{x=340, y=125, z=-80}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / ancient_elements:floating_islands_feature]
 [15Dec2024 01:11:18.549] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [15Dec2024 01:11:18.565] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Dec2024 01:15:31.054] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[15Dec2024 01:16:18.547] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Dec2024 01:16:18.564] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Dec2024 01:16:48.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LilLeo8451 has made the advancement [Suit Up]
+[15Dec2024 01:21:18.554] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Dec2024 01:21:18.571] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
