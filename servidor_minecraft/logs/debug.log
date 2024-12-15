@@ -8321,3 +8321,15 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [15Dec2024 00:49:33.524] [Worker-Main-2/DEBUG] [ModernFix/]: Structure mvs:other_decoration/bee_dome is being run through DFU (hash e8d8119aa8f44225032b6eb9e45f42a840f6e6c361f54e1cdbf0ea56ae57a72d), this will cause launch time delays
 [15Dec2024 00:49:42.627] [Worker-Main-1/DEBUG] [ModernFix/]: Structure terralith:underground/smallminingoutpost is being run through DFU (hash 9f4d2d29abe643289f5ce6dec593e783e713721c6f3eef71ff2219e5e1a426ab), this will cause launch time delays
 [15Dec2024 00:49:43.585] [Worker-Main-10/DEBUG] [ModernFix/]: Structure structory:outcast_villager/ruin1 is being run through DFU (hash 4baf7dd29860dc76efe3215ced74155e4ba2923468f2edf7a620a422cb4d2c81), this will cause launch time delays
+[15Dec2024 00:50:40.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LilLeo8451 has made the advancement [Stone Age]
+[15Dec2024 00:51:18.693] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Dec2024 00:51:18.799] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Dec2024 00:51:25.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LilLeo8451 has made the advancement [Getting an Upgrade]
+[15Dec2024 00:56:18.571] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Dec2024 00:56:18.591] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Dec2024 00:59:22.052] [Worker-Main-1/DEBUG] [ModernFix/]: Structure graveyard:small_savanna_grave/small_savanna_grave_03 is being run through DFU (hash 2585f9ec808368943a97ce36435db7a7e588f6c0aa7d59f983b3828260f6ec2e), this will cause launch time delays
+[15Dec2024 00:59:22.363] [Worker-Main-10/DEBUG] [ModernFix/]: Structure soulsweapons:champions_graves_main is being run through DFU (hash fee0d0a1ec70a209da96c4d2de2622778eec92b6cdbbf801cd4646965ad50c99), this will cause launch time delays
+[15Dec2024 00:59:22.462] [Worker-Main-10/DEBUG] [ModernFix/]: Structure soulsweapons:cathedral_of_resurrection is being run through DFU (hash 09424fb7fe995a4981cd3fcd51afb89133ae6d036092c9238634af1b4a69ea5c), this will cause launch time delays
+[15Dec2024 01:01:18.588] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Dec2024 01:01:18.644] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Dec2024 01:01:48.452] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
